@@ -57,4 +57,5 @@ gem 'devise', '~> 4.3'
 
 gem 'bootstrap', '~> 4.0.0.alpha6'
 
-gem 'burton_view_tool', git: 'https://github.com/18tburton/burton_view_tool' 
+gem 'burton_view_tool', git: 'https://github.com/18tburton/burton_view_tool'
+gem 'petergate', '~> 1.7', '>= 1.7.5'
