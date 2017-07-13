@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/18tburton/burton_view_tool
+  revision: 45487e006a66a73567997e0e6dff0c1447a1775c
+  specs:
+    burton_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -184,6 +190,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap (~> 4.0.0.alpha6)
+  burton_view_tool!
   byebug
   coffee-rails (~> 4.2)
   devise (~> 4.3)
